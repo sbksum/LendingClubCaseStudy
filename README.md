@@ -1,4 +1,4 @@
-# Lending Club DEfault Analysis - Case Study  
+# Lending Club Default Analysis - Case Study  
 > Using EDA to find out how consumer attributes and loan attributes influence the tendency of default.
 
 
